@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and Tools:</h3>
 
 ###
 
@@ -88,6 +88,5 @@
   
   <img src="https://streak-stats.demolab.com?user=AbdullahShariq&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
 </div>
-
 
 ###
