@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Artificial Intelligence**
 
-- ⚡ Fun fact **I teach Machines to learn**
+- ⚡ Fun fact about me is **I teach Machines how to think and learn**
 
 <h3 align="left">Connect with me:</h3>
 
