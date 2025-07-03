@@ -10,9 +10,11 @@
 
 - 🔭 I’m currently working on **Chatbots**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **LangChain**
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Computer Vision**
+
+- 📫 How to reach me : abdullah.shariq05@gmail.com
 
 - ⚡ Fun fact about me is **I teach Machines how to think and learn**
 
