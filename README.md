@@ -31,9 +31,8 @@
 </div>
 
 ###
+<!--
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo" />
@@ -77,6 +76,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo" />
   <img width="6" />
 </div>
+-->
+
+###
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
