@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shariq</h1>
-<h3 align="center">A Machine Learning Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 ![MasterHead](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif)
 
